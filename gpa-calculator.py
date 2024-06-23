@@ -1,4 +1,3 @@
-```python
 from PyQt5.QtWidgets import QApplication, QWidget, QVBoxLayout, QHBoxLayout, QPushButton, QLabel, QLineEdit, QScrollArea, QGridLayout, QMessageBox
 
 class GPACalculator(QWidget):
@@ -227,4 +226,3 @@ if __name__ == "__main__":
     gpa_calculator = GPACalculator()
     gpa_calculator.show()
     app.exec_()
-```
